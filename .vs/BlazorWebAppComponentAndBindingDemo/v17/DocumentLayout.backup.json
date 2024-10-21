@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projects\\Learn\\Blazor-Web-App-Component-and-Binding-Demo\\BlazorWebAppComponentAndBindingDemo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56C37814-1EC4-4470-944F-31F0128F3384}|BlazorWebAppComponentAndBindingDemo\\BlazorWebAppComponentAndBindingDemo.csproj|c:\\projects\\learn\\blazor-web-app-component-and-binding-demo\\blazorwebappcomponentandbindingdemo\\blazorwebappcomponentandbindingdemo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56C37814-1EC4-4470-944F-31F0128F3384}|BlazorWebAppComponentAndBindingDemo\\BlazorWebAppComponentAndBindingDemo.csproj|solutionrelative:blazorwebappcomponentandbindingdemo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\Learn\\Blazor-Web-App-Component-and-Binding-Demo\\BlazorWebAppComponentAndBindingDemo\\BlazorWebAppComponentAndBindingDemo\\Components\\Pages\\Greeting.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazorWebAppComponentAndBindingDemo\\Components\\Pages\\Greeting.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 821,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +35,36 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Projects\\Learn\\Blazor-Web-App-Component-and-Binding-Demo\\BlazorWebAppComponentAndBindingDemo\\BlazorWebAppComponentAndBindingDemo\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorWebAppComponentAndBindingDemo\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Projects\\Learn\\Blazor-Web-App-Component-and-Binding-Demo\\BlazorWebAppComponentAndBindingDemo\\BlazorWebAppComponentAndBindingDemo\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorWebAppComponentAndBindingDemo\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T15:06:29.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Greeting.razor",
+              "DocumentMoniker": "C:\\Projects\\Learn\\Blazor-Web-App-Component-and-Binding-Demo\\BlazorWebAppComponentAndBindingDemo\\BlazorWebAppComponentAndBindingDemo\\Components\\Pages\\Greeting.razor",
+              "RelativeDocumentMoniker": "BlazorWebAppComponentAndBindingDemo\\Components\\Pages\\Greeting.razor",
+              "ToolTip": "C:\\Projects\\Learn\\Blazor-Web-App-Component-and-Binding-Demo\\BlazorWebAppComponentAndBindingDemo\\BlazorWebAppComponentAndBindingDemo\\Components\\Pages\\Greeting.razor",
+              "RelativeToolTip": "BlazorWebAppComponentAndBindingDemo\\Components\\Pages\\Greeting.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T15:04:07.03Z",
+              "EditorCaption": ""
             }
           ]
         },
@@ -36,10 +75,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
